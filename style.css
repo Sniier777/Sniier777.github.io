@@ -1,0 +1,68 @@
+
+
+b:hover{
+    color: red;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+.contenedor-G {
+    display: inline-flex;
+}
+
+.izquierdo {
+    background-color: white;
+    width: 30vw;
+    height: 100vw;
+    padding: 40px;
+    display: inline-block;
+    
+}
+
+.perfil {
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+
+.azul:hover{
+    background-color: #31A3BF ;
+}
+
+.derecho {
+    display: inline-block;
+    background-color: lightgray;
+    width: 70vw;
+    height: 100vw;
+    padding: 20px;
+    text-align: center;
+   
+}
+h1 {
+    padding-top: em;
+}
+
+h3 {
+    padding-top: 2em;
+}
+
+.contenedor-info-der {
+    margin: 5em;
+    text-align: left;
+    
+}
+
+hr {
+    height: 10px;
+    width: 10em;
+    background-color: black;
+}
+hr:hover {
+    width: 15em;
+    
+}
+
+.lista-derecho {
+    margin-left: 1em;
+}
