@@ -1,9 +1,5 @@
 
 
-b:hover{
-    color: red;
-}
-
 * {
     padding: 0;
     margin: 0;
@@ -16,16 +12,28 @@ b:hover{
     background-color: white;
     width: 30vw;
     height: 100vw;
-    padding: 40px;
+    padding: 4.5em;
     display: inline-block;
     
 }
-
-.perfil {
-    margin-top: 3em;
-    margin-bottom: 3em;
+.foto{
+    padding: 2em;
+    padding-bottom: 4em;
+   
+    
 }
 
+
+.perfil {
+    
+    margin-top: 3em;
+    margin-bottom: 6em;
+}
+
+p{
+    font-family: sans-serif;
+    font-size: 20px;
+}
 .azul:hover{
     background-color: #31A3BF ;
 }
@@ -35,7 +43,7 @@ b:hover{
     background-color: lightgray;
     width: 70vw;
     height: 100vw;
-    padding: 20px;
+    padding: 6em;
     text-align: center;
    
 }
@@ -43,14 +51,23 @@ h1 {
     padding-top: em;
 }
 
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    
+    
+}
 h3 {
     padding-top: 2em;
+    
+    
 }
 
 .contenedor-info-der {
     margin: 5em;
     text-align: left;
-    
+    font-family: sans-serif;
+    font-size: 1.5em;
 }
 
 hr {
